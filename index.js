@@ -1,4 +1,5 @@
-function fun(name){
+const set=(name)=>{
     console.log(name)
 }
-fun(Kishore)
+console.log(set(kumar))
+//use function expression
